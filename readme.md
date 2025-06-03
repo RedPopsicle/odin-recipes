@@ -1,0 +1,1 @@
+This project will show a few recipes on a website. Some skills that will be used include navigating through the project's file system, linking pages from one directory to another, and writing out basic HTML lines.
